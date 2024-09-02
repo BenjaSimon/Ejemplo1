@@ -10,7 +10,7 @@ namespace Ejemplo_Sintaxis
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Hola mnundo");
         }
     }
 }
